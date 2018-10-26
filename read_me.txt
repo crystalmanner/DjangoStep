@@ -1,0 +1,1 @@
+this is Django tutorial code for beginners.
